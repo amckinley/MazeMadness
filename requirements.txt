@@ -1,0 +1,7 @@
+numpy
+six
+dateutil
+tornado
+pyparsing
+libagg
+matplotlib
